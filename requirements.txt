@@ -1,0 +1,16 @@
+numpy
+pandas
+matplotlib
+seaborn
+pylab
+gdal
+pyproj
+fiona
+shapely
+geopandas
+mapclassify
+contextily
+geoviews
+xarray
+cartopy
+hvplot
